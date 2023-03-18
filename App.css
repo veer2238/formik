@@ -1,0 +1,19 @@
+.mains{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+    background-color: rgba(72, 255, 0, 0.516);
+    flex-direction: column;
+}
+
+.main{
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    flex-direction: column;
+    gap: 70px;
+    box-shadow: 1px 1px 1px 1px;
+    height: 400px;
+    width: 500px;
+}
